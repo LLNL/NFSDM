@@ -1,5 +1,5 @@
 ---
-title: "Nuclear Fallout Super-droplet Method (NFSDM)"
+"Nuclear Fallout Super-droplet Method (NFSDM)"
 ---
 
 This is a python code to simulate the formation and evolution of particles in an airburst as a homogeneous fireball expands and cools. The
