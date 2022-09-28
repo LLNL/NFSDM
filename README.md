@@ -1,9 +1,9 @@
 ---
-"Nuclear Fallout Super-droplet Method (NFSDM)"
+title: "Nuclear Fallout Super-droplet Method (NFSDM)"
 ---
 
 This is a python code to simulate the formation and evolution of particles in an airburst as a homogeneous fireball expands and cools. The
-numerical model applied is a Lagrangian particle super-droplet method. This work has been published: "Super-droplet Method to Simulate Lagrangian Microphysics of Nuclear Fallout in a Homogeneous Cloud" D. L. McGuffin, D. D. Lucas, J. P. Morris, G. D. Spriggs, K. B. Knight. Journal of Geophysical Research: Atmospheres **Vol**, Iss (2022)[doi:10.1016/xxx]().
+numerical model applied is a Lagrangian particle super-droplet method. This work has been published: D. L. McGuffin, D. D. Lucas, J. P. Morris, G. D. Spriggs, K. B. Knight. (2022) "Super-droplet Method to Simulate Lagrangian Microphysics of Nuclear Fallout in a Homogeneous Cloud" *Journal of Geophysical Research: Atmospheres 127* (18) [doi:10.1029/2022JD036599](https://doi.org/10.1029/2022JD036599).
 
 Running the model
 ----------------

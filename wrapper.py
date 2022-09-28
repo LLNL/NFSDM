@@ -53,7 +53,7 @@ def run(ttime,species, Yin, Min, condnuc_fact,coag_fact,save_path):
 	# run SDM scenarios in parallel
 	result = sdm(0, inputs=second_arg)
 	
-	return pd.concat( result, axis=1 )
+	# return pd.concat( result, axis=1 )
 if __name__ == "__main__":
 	print('Hello!')
 	## Parse inputs #########################################
@@ -73,8 +73,7 @@ if __name__ == "__main__":
 	save_path = sys.argv[7]
 
 	## Run code and save all output in dataframe ###################
-	df = run(tot_sec, species, Yval, Mval, condnuc_fact, 
-                    coag_fact, save_path)
+	run(tot_sec, species, Yval, Mval, condnuc_fact, coag_fact, save_path)  
 
 """
 Copyright (c) 2022, Lawrence Livermore National Security, LLC.  All rights 
