@@ -21,7 +21,7 @@ Additionally, adapt_superdroplets.py is used to merge super-droplets. Sizedist.p
 Dataset
 ----------------
 
-A model-generated dataset utilized to create figures in (McGuffin, D. L. et al., 2022) is archived in fallout_superdroplet_output.tar.gz and described in SDM_Dataset.pdf.
+A model-generated dataset utilized to create figures in (McGuffin, D. L. et al., 2022) is archived in fallout_superdroplet_output.tar.gz and described in [SDM_Dataset.pdf](https://github.com/LLNL/NFSDM/blob/main/SDM_Dataset.pdf).
 
 
 License
